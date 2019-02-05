@@ -10,5 +10,5 @@ Personal page
 
 # Contact
 * Twitter: [@lisphacker](https://twitter.com/lisphacker)
-* Email: <first name><first letter of last name>@<google's email service>
+* Email: \<first name>\<first letter of last name>@\<google's email service>
   
