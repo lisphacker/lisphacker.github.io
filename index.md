@@ -6,6 +6,7 @@ layout: default
 Personal page
 
 # Links
+* GitHub: [@lisphacker](https://github.com/lisphacker)
 * CodeWars: [@lisphacker](https://www.codewars.com/users/lisphacker)
 * HackerRank: [@lisphacker](https://www.hackerrank.com/lisphacker)
 
