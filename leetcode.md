@@ -1,3 +1,8 @@
+---
+title: Gautham's LeetCode solutions
+layout: default
+---
+
 # Problem [1](https://leetcode.com/problems/two-sum/) - Two Sum
 
 ```haskell
