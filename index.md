@@ -10,7 +10,7 @@ Personal page
 - GitHub: [@lisphacker](https://github.com/lisphacker)
 - CodeWars: [@lisphacker](https://www.codewars.com/users/lisphacker)
 - HackerRank: [@lisphacker](https://www.hackerrank.com/lisphacker)
-- [LeetCode](leetcode.md)
+- [LeetCode](https://github.com/lisphacker/leetcode)
 
 # Contact
 
