@@ -5,6 +5,8 @@ layout: default
 
 Personal page
 
+Compiler developer @ Graphcore
+
 # Links
 
 - GitHub: [@lisphacker](https://github.com/lisphacker)
